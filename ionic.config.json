@@ -1,0 +1,7 @@
+{
+  "name": "tatarea",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
