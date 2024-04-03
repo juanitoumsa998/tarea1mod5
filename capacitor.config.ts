@@ -3,7 +3,7 @@ import { CapacitorConfig } from '@capacitor/cli';
 const config: CapacitorConfig = {
   appId: 'io.ionic.starter',
   appName: 'tatarea',
-  webDir: 'www',
+  webDir: 'index.html',
   server: {
     androidScheme: 'https'
   }
